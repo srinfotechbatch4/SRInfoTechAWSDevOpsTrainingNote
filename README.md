@@ -8393,7 +8393,8 @@ Application up & running::
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18056593-c77f-47a6-b1e2-f80270c44726" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14ebe780-9d59-4771-a8e8-3e3c7ab17234" />
+
 
 
 
